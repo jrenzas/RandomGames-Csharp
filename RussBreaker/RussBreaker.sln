@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussBreaker", "RussBreaker\RussBreaker\RussBreaker.csproj", "{67E3B278-6608-42ED-B939-FFFB26FACA20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussBreakerContent", "RussBreaker\RussBreakerContent\RussBreakerContent.contentproj", "{66ABAC62-B754-494C-B328-3A5F423021EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileEngine.cs", "TileEngine.cs\TileEngine.cs.csproj", "{C57D41C4-C834-4415-BAF2-151692F36D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E3B278-6608-42ED-B939-FFFB26FACA20}.Debug|x86.ActiveCfg = Debug|x86
+		{67E3B278-6608-42ED-B939-FFFB26FACA20}.Debug|x86.Build.0 = Debug|x86
+		{67E3B278-6608-42ED-B939-FFFB26FACA20}.Release|x86.ActiveCfg = Release|x86
+		{67E3B278-6608-42ED-B939-FFFB26FACA20}.Release|x86.Build.0 = Release|x86
+		{66ABAC62-B754-494C-B328-3A5F423021EC}.Debug|x86.ActiveCfg = Debug|x86
+		{66ABAC62-B754-494C-B328-3A5F423021EC}.Release|x86.ActiveCfg = Release|x86
+		{C57D41C4-C834-4415-BAF2-151692F36D71}.Debug|x86.ActiveCfg = Debug|x86
+		{C57D41C4-C834-4415-BAF2-151692F36D71}.Debug|x86.Build.0 = Debug|x86
+		{C57D41C4-C834-4415-BAF2-151692F36D71}.Release|x86.ActiveCfg = Release|x86
+		{C57D41C4-C834-4415-BAF2-151692F36D71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

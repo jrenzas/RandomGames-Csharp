@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussTetris2", "RussTetris2\RussTetris2\RussTetris2.csproj", "{528F8991-CB78-45DF-92CF-CF7A15A488B6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RussTetris2Content", "RussTetris2\RussTetris2Content\RussTetris2Content.contentproj", "{FF57C218-AEDC-4FF1-B36D-99E407212FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528F8991-CB78-45DF-92CF-CF7A15A488B6}.Debug|x86.ActiveCfg = Debug|x86
+		{528F8991-CB78-45DF-92CF-CF7A15A488B6}.Debug|x86.Build.0 = Debug|x86
+		{528F8991-CB78-45DF-92CF-CF7A15A488B6}.Release|x86.ActiveCfg = Release|x86
+		{528F8991-CB78-45DF-92CF-CF7A15A488B6}.Release|x86.Build.0 = Release|x86
+		{FF57C218-AEDC-4FF1-B36D-99E407212FF9}.Debug|x86.ActiveCfg = Debug|x86
+		{FF57C218-AEDC-4FF1-B36D-99E407212FF9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
